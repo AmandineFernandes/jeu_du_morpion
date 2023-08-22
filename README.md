@@ -1,4 +1,4 @@
-JEU DU MORPION
+## JEU DU MORPION
 
 Le projet du jour consiste à coder le jeu du Morpion. 
 
