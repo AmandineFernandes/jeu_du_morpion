@@ -1,5 +1,14 @@
 ## JEU DU MORPION
 
+### Installation et lancement
+#### Sur Windows / Mac
+Ouvrez un terminal
+Rendez-vous dans le répertoire du projet
+Tapez la commande bundle install
+Tapez la commande ruby app.rb
+Amusez-vous bien !
+
+### Introduction
 Le projet du jour consiste à coder le jeu du Morpion. 
 
 A vous les soirées de folie à 2 en compétition.  
@@ -9,6 +18,7 @@ Top départ !
 
 GO, GO, GO
 
+### Règles du jeu
 1. Le jeu ne se joue qu'à deux joueurs humains (on ne vous demande pas de coder d'intelligence artificielle aujourd'hui…);
 2. Le programme doit commencer en demandant le prénom de chaque joueur ;
 3. Le plateau de jeu est composé de 9 cases, chacune désignée par sa position verticale (A, B ou C) suivie de sa position horizontale (1, 2 ou 3). Exemples : la case en haut à droite s'appelle "A3" et celle en bas à droite "C3" ;
